@@ -31,6 +31,7 @@ Replace the brand, ARN, CIN and address placeholders before any public use.
 Hash-based routing, e.g. `#/`, `#/mutual-funds`, `#/app/dashboard`, `#/app/mf/portfolio`, `#/app/fund/3`.
 
 ## Folder
-- `index.html` — current demo (v3, editorial redesign)
+- `index.html` — current demo (v4, full redesign with illustrations, charts and interactions)
+- `archive/v3-editorial-demo.html` — third version
 - `archive/v2-corporate-demo.html` — second version
 - `archive/v1-simple-demo.html` — first simple version
